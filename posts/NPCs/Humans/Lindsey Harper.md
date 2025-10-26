@@ -1,6 +1,7 @@
 ---
 tags:
   - NPC
+  - Human
 aliases:
   - Lindsey
   - Mrs. Harper

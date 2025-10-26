@@ -1,6 +1,7 @@
 ---
 tags:
   - NPC
+  - Human
 aliases:
   - Edmund
   - Mr. Crowe
