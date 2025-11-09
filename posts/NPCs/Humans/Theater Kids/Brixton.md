@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Flacklin
+  - Brixton
 tags:
   - Human
   - NPC
